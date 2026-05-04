@@ -1,0 +1,34 @@
+# Model weights (too large for git)
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Misc
+.vscode/
+test_image.py
+test_result.png
+gui.py
+Expression_Detection_Model.ipynb
+Model.ipynb
+Age_Sex_Detection.keras
+
+# Old age-gender model files
+Model.ipynb
+gui.py
+"Output Sample 1.png"
+"Output Sample 2.png"
